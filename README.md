@@ -1,2 +1,2 @@
 # ForecastAssignment
-Uppgift 7
+Tillämpning av en Meta Prophet modell.
